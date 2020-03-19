@@ -23,3 +23,4 @@ The following examples are inside this repository:
 
 ## Compatibility
 The source code is compatible with the following devices: AVR128DA28, AVR128DA32, AVR128DA48, and AVR128DA64.
+
