@@ -3,27 +3,27 @@
     "category": "com.microchip.ide.project",
     "content": {
         "metaDataVersion": "1.1.0",
-        "name": "com.microchip.mcu8.studio.project.",
-        "version": " ",
-        "displayName": "  ",
-        "projectName": "",
-        "shortDescription": "",
+        "name": "com.microchip.mcu8.studio.project.avr128da48-using-10-bit-dac",
+        "version": "1.0.2",
+        "displayName": "Getting Started with DAC",
+        "projectName": "avr128da48-using-10-bit-dac",
+        "shortDescription": "This repository contains 5 Microchip Studio source code examples that show how to use the DAC peripheral in different modes. It is a companion to the TB3210-Getting Started with Digital-to-Analog Converter (DAC)",
         "ide": {
-            "name": "",
-            "semverRange": ""
+            "name": "STUDIO",
+            "semverRange": ">=7.0.2542"
         },
         "compiler": [
 			{
-				"name": "",
-				"semverRange": ""
+				"name": "AVR GCC",
+				"semverRange": "^5.4.0"
 			}
 		],
         "dfp": {
-            "name": "",
-            "semverRange": ""
+            "name": "AVR-Dx",
+            "semverRange": "1.6.88"
         },
         "configurator": {
-            "name": "",
+            "name": "N/A",
             "semverRange": ""
         },
         "device": {
@@ -32,26 +32,22 @@
             "content": {
                 "metaDataVersion": "1.0.0",
                 "category": "com.microchip.device",
-                "name": "",
+                "name": "AVR128DA48",
                 "versionRange": "*"
             }
         },
-        "author": "",
+        "author": "Microchip",
         "subcategories": [
-            "",
             [
-               "Peripherals", ""
-            ],
-            [
-               "Peripherals", ""
-            ]            			
+                "Peripherals",
+                "DAC"
+            ]
         ],
         "peripherals": [
-            "",""
+            "DAC"
         ],
         "keywords": [
-            "",
-            ""			
+            "Getting Started", "Bare Metal"
         ],
 		"additionalData": {
 			"longDescription": {
