@@ -1,7 +1,6 @@
-<div id="readme" class="Box-body readme blob js-code-block-container">
- <article class="markdown-body entry-content p-3 p-md-6" itemprop="This needs to locked down and 'never' changed"><p><a href="https://www.microchip.com" rel="nofollow"><img src="images/Microchip.png" alt="MCHP" width="300";"></a></p>
+[![MCHP](images/microchip.png)](https://www.microchip.com)
 
-# Using 10-bit DAC for Generating Analog Signals
+# Getting started with Digital-to-Analog Converter (DAC)
 
 This repository contains examples of bare metal source code for DAC as described in [*TB3235 - Using 10-Bit DAC for Generating Analog Signals*](https://www.microchip.com/wwwappnotes/appnotes.aspx?appnote=en1001655) document from Microchip. The repository contains an Atmel Studio Solution (*AVR-DA128_DAC_Examples.atsln*) with four projects inside, one project for each illustrated use case.
 
@@ -35,7 +34,7 @@ More details and code examples on the AVR128DA48 can be found at the following l
 
 
 ## Software Used
-- Atmel Studio 7.0.2397 or newer [(microchip.com/mplab/avr-support/atmel-studio-7)](https://www.microchip.com/mplab/avr-support/atmel-studio-7)
+- Microchip Studio 7.0.2397 or newer [(Microchip Studio for AVR® and SAM Devices)](https://www.microchip.com/en-us/development-tools-tools-and-software/microchip-studio-for-avr-and-sam-devices)
 - AVR-Dx 1.0.18 or newer Device Pack
 
 

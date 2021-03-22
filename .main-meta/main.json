@@ -5,7 +5,7 @@
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.studio.project.avr128da48-using-10-bit-dac",
         "version": "1.0.2",
-        "displayName": "Getting Started with DAC",
+        "displayName": "Getting Started with Digital-to-Analog Converter (DAC)",
         "projectName": "avr128da48-using-10-bit-dac",
         "shortDescription": "This repository contains 5 Microchip Studio source code examples that show how to use the DAC peripheral in different modes. It is a companion to the TB3210-Getting Started with Digital-to-Analog Converter (DAC)",
         "ide": {
@@ -47,7 +47,8 @@
             "DAC"
         ],
         "keywords": [
-            "Getting Started", "Bare Metal"
+            "Getting Started",
+			"Bare Metal"
         ],
 		"additionalData": {
 			"longDescription": {
