@@ -1,6 +1,6 @@
 [![MCHP](images/microchip.png)](https://www.microchip.com)
 
-# Getting started with Digital-to-Analog Converter (DAC)
+# Getting Started with Digital-to-Analog Converter (DAC)
 
 This repository contains examples of bare metal source code for DAC as described in [*TB3235 - Using 10-Bit DAC for Generating Analog Signals*](https://www.microchip.com/wwwappnotes/appnotes.aspx?appnote=en1001655) document from Microchip. The repository contains an Atmel Studio Solution (*AVR-DA128_DAC_Examples.atsln*) with four projects inside, one project for each illustrated use case.
 
